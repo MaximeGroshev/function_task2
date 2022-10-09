@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="second.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="55" topLine="0" />
+		<BrowseMarks positions="20,46,116,206" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="third.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="68" topLine="0" />
+		<BrowseMarks positions="0,20,75,118,170,197,199,235,238,254,270,349,394" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="first.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="66" topLine="0" />
+		<BrowseMarks positions="0,20,42,82,124,174,201,232,277,378,380,455,481,490,512" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="fourth.cpp" open="1" top="1" tabpos="0">
+		<Cursor position="0" topLine="0" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+</BrowseTracker_layout_file>

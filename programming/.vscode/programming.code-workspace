@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"explorer.confirmDelete": false,
+		"C_Cpp.loggingLevel": "Warning",
+		"explorer.confirmDragAndDrop": false,
+		"terminal.integrated.cursorStyle": "line",
+		"terminal.integrated.detectLocale": "on",
+		"files.enableTrash": false,
+		"workbench.preferredDarkColorTheme": "Visual Studio Light",
+		"workbench.preferredLightColorTheme": "Visual Studio Light",
+		"breadcrumbs.enabled": false,
+		"workbench.editor.enablePreview": false,
+		"zenMode.hideLineNumbers": false,
+		"task.allowAutomaticTasks": "off",
+		"task.autoDetect": "off",
+		"problems.autoReveal": false,
+		"problems.decorations.enabled": false,
+		"workbench.colorTheme": "Visual Studio Dark",
+		"files.autoSave": "onWindowChange"
+	}
+}
